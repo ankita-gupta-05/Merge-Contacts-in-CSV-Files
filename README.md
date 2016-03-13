@@ -7,11 +7,13 @@ There are two excel files named originaldata (contains 4300 entries) and finalda
 Entries in the finaldata file are a subset of the original data. Both files have business name in common.
 
 originaldata contains following fields:
+
 User id
 Business Name
 Business Website
 
 finaldata contains following fields:
+
 Business Name
 Video URL
 
